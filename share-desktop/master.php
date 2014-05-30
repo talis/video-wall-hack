@@ -9,8 +9,8 @@ define('DEFAULT_REMOTE_DISPLAY', ':0.0');
  * 
  * These all need to be set up with passwordless access. On the master:
  * 
- * ssh-keygen -t rsa
- * ssh-copy-id user@192.168.1.1
+ * ssh-keygen -t rsa (if you do not already have a key pair generated)
+ * ssh-copy-id user@192.168.1.1 (where the IP is your remote machine)
  * ssh-add
  * 
  * Then test without a password:
