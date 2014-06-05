@@ -1,0 +1,4 @@
+wget http://127.0.0.1:5000/spawn_window/windowed?url=http%3a%2f%2ftiree.snipit.org%2ftalis%2fMonitorWall%2fscreen1.php%3fscreen_id%3dA
+wget http://127.0.0.1:5000/spawn_window/windowed?url=http%3a%2f%2ftiree.snipit.org%2ftalis%2fMonitorWall%2fscreen1.php%3fscreen_id%3dC
+wget http://127.0.0.1:5000/spawn_window/windowed?url=http%3a%2f%2ftiree.snipit.org%2ftalis%2fMonitorWall%2fscreen1.php%3fscreen_id%3dB
+wget http://127.0.0.1:5000/spawn_window/windowed?url=http%3a%2f%2ftiree.snipit.org%2ftalis%2fMonitorWall%2fscreen1.php%3fscreen_id%3dD
