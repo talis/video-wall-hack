@@ -1,0 +1,2 @@
+#!/bin/bash
+ssh $1 "killall -9 chromium-browser; DISPLAY=:0 chromium-browser --kiosk $2"

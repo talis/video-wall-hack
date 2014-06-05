@@ -1,0 +1,2 @@
+#!/bin/bash
+DISPLAY=:0 killall -9 chromium-browser; chromium-browser --kiosk $1
